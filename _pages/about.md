@@ -11,4 +11,4 @@ I'm a sophomore from [School of CIC](http://cic.tju.edu.cn/), [Tianjin Universit
 
 You can find my CV here: [Qiucheng Chen's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto: trouverecc@gmail.com) / [Github](https://github.com/Trouverecc) / [Wechat](/images/wechat.JPG)  /[Gitee](https://gitee.com/trouverecc)
+[Email](mailto: trouverecc@gmail.com) / [Github](https://github.com/Trouverecc) / [Wechat](/images/wechat.PNG)  /[Gitee](https://gitee.com/trouverecc)
