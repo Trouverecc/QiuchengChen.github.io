@@ -12,14 +12,13 @@ redirect_from:
 Education
 ======
 * B.S. in Tianjin University, China                                             Aug 2022 – Expected Jul 2026
-  * Relevant Coursework: Probability Theory and Mathematical Statistics (100/100 points);
-   
-                         Linear Algebra(94/100 points); Advanced Mathematics (90/100 points);
-    
-                         C++ Programming Principles (96/100 points); Computer System Practice (94/100 points) 
-  *	Honor and Award: The third-class honor Scholarship, 2023; The commended student, 2023;
-    
-                     Liu Bao Scholarship, 2022
+  * Relevant Coursework:
+    * Probability Theory and Mathematical Statistics (100/100 points);   
+    * Linear Algebra(94/100 points); Advanced Mathematics (90/100 points);
+    * C++ Programming Principles (96/100 points); Computer System Practice (94/100 points) 
+  *	Honor and Award:
+    * The third-class honor Scholarship, 2023; The commended student, 2023;
+    * Liu Bao Scholarship, 2022
 
 
 Work experience
