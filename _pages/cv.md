@@ -11,8 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in Tianjin University, China Aug 2022 – Expected Jul 2026
-  * Relevant Coursework: Probability Theory and Mathematical Statistics (100/100 points); Linear Algebra(94/100 points); Advanced Mathematics (GPA: 4.0); C++ Programming Principles (96/100 points); Computer System Practice (94/100 points) 
+* B.S. in Tianjin University, China                                             Aug 2022 – Expected Jul 2026
+  * Relevant Coursework: Probability Theory and Mathematical Statistics (100/100 points);
+                         Linear Algebra(94/100 points); Advanced Mathematics (90/100 points);
+                         C++ Programming Principles (96/100 points); Computer System Practice (94/100 points) 
   *	Honor and Award: 
   The third-class honor Scholarship, 2023; The commended student, 2023;
   Liu Bao Scholarship, 2022
@@ -60,4 +62,7 @@ Talks
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Double Innovation Center, Faculty of Intelligence and Computing, Tianjin University
+  * Director of Science and Technology Association                       Aug 2023-Aug 2024
+    * Publicized cutting-edge scientific and technological knowledge, shared research and learning experiences,
+      Wrote WeChat push, operated WeChat official account and organized related lecture
