@@ -17,8 +17,8 @@ Education
     * Linear Algebra(94/100 points); Advanced Mathematics (90/100 points);
     * C++ Programming Principles (96/100 points); Computer System Practice (94/100 points) 
   *	Honor and Award:
-    * The third-class honor Scholarship, 2023; The commended student, 2023;
-    * Liu Bao Scholarship, 2022
+      * The third-class honor Scholarship, 2023; The commended student, 2023;
+      * Liu Bao Scholarship, 2022
 
 
 Work experience
